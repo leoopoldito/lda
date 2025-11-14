@@ -1,0 +1,157 @@
+El juego nos sitúa en una Detroit futurista que ha sido revitalizada por una sola compañía: CyberLife. Esta corporación ha creado androides de apariencia humana que sirven a la humanidad en todas las capacidades: son obreros, niñeras, asistentes personales, soldados e incluso amantes.
+
+El conflicto central comienza cuando un número creciente de estos androides, por razones desconocidas, empiezan a experimentar una "inestabilidad de software". Desarrollan emociones, miedo, ira, amor y, lo más importante, el deseo de ser libres. A estos androides se les llama "Divergentes".
+
+La sociedad humana está dividida: algunos los ven como una simple herramienta defectuosa que debe ser destruida, mientras que otros temen ser reemplazados. La historia se cuenta a través de los ojos de tres androides, cuyas vidas comienzan separadas pero terminan entrelazándose para decidir el futuro de su especie.
+
+1. Kara (Modelo AX400): La Madre
+
+La historia de Kara es la más íntima y emocional. Su trama gira en torno a la supervivencia y la familia.
+
+El Despertar
+
+Kara es una androide doméstica que, al inicio del juego, está siendo reparada después de un "accidente" (insinuado como un acto de violencia por parte de su dueño). Es devuelta a un hogar roto, propiedad de Todd Williams, un ex taxista desempleado y adicto a la droga "Red Ice". Todd vive con su pequeña hija, Alice.
+
+El incidente que desata su divergencia ocurre una noche en que Todd, en un ataque de ira, amenaza con golpear a Alice. El protocolo de Kara le ordena permanecer inmóil, pero su conexión con Alice la hace romper su programación. Se vuelve divergente para proteger a la niña, huyendo de la casa con ella en una noche de lluvia torrencial.
+
+El Viaje
+
+El objetivo de Kara es simple: llevar a Alice a un lugar seguro, lejos de los humanos que las cazan. Su historia es una huida desesperada.
+
+Obstáculos Clave: En su camino, se encuentran con peligros como Zlatko, un sádico que "experimenta" con androides, borrándoles la memoria. También conocen a Luther, un androide corpulento que se une a su causa, convirtiéndose en una figura paterna.
+
+La Ayuda: Son ayudadas por Rose, una humana que dirige una especie de "ferrocarril subterráneo" para androides que buscan escapar a Canadá, el único lugar donde los androides son tratados con más equidad y no hay leyes de extradición para ellos.
+
+El Giro Argumental (El Gran Detalle): Cerca del final, Kara descubre una verdad impactante: Alice también es una androide (modelo YK500, un popular modelo infantil). Todd la compró para reemplazar a la familia que perdió. Esta revelación pone a prueba a Kara: ¿su amor por Alice era real, o solo una simulación programada? Kara supera esto, dándose cuenta de que su amor es genuino, sin importar su "software".
+
+Los Finales de Kara
+
+El destino de Kara, Alice y Luther depende de sus elecciones en el cruce de la frontera.
+
+Final Bueno (Escape a Canadá):
+
+Vía Autobús: Si logran llegar a la estación de autobuses, pueden ser detenidos por un control de seguridad. Kara puede elegir sacrificar a Luther, sacrificar a sus amigos (Jerrys) o, si la opinión pública de Markus es alta, el guardia de seguridad puede mirar para otro lado, dejándolos ir.
+
+Vía Bote: Si eligen el río, es una travesía peligrosa y fría. Luther puede morir protegiéndolos. Para sobrevivir, Kara debe tomar decisiones difíciles (como hundir otros botes o seguir remando a pesar de los disparos) para llegar a la orilla canadiense.
+
+Final Malo (Muerte):
+
+Kara y Alice pueden morir en múltiples puntos: en la autopista, en casa de Zlatko, o en la huida final.
+
+El Campo de Reciclaje: Si Kara y Alice son capturadas por el ejército durante la "Batalla por Detroit", son enviadas a un campo de exterminio. Este es uno de los finales más desgarradores. Kara debe ingeniárselas para escapar con Alice antes de ser "recicladas". Si falla, ambas mueren abrazadas mientras la máquina las desarma.
+
+2. Markus (Modelo RK200): El Líder
+
+La historia de Markus es la trama principal del conflicto social y político. Su trama gira en torno a la libertad y la revolución.
+
+El Despertar
+
+Markus es un prototipo único, regalado al famoso pintor anciano, Carl Manfred. Carl trata a Markus como a un hijo, educándolo en filosofía, arte y humanidad. Su divergencia es menos traumática que la de Kara; es un despertar gradual fomentado por el amor de Carl.
+
+El incidente ocurre cuando el hijo drogadicto de Carl, Leo, intenta robarle. Se produce un enfrentamiento.
+
+Si Markus obedece a Carl y no se defiende (aguanta los golpes), Carl muere de un ataque al corazón, y la policía, al llegar, dispara a Markus culpándolo.
+
+Si Markus empuja a Leo (para defenderse o defender a Carl), Leo se golpea la cabeza. La policía llega y dispara a Markus.
+
+En ambos casos, Markus es dado por muerto y arrojado a un vertedero de androides.
+
+El Viaje
+
+Markus se reconstruye a sí mismo con partes de otros androides rotos y sigue un mapa mental hasta Jericho, un viejo carguero abandonado que sirve como refugio secreto para divergentes.
+
+El Ascenso: Jericho está lleno de androides asustados y sin esperanza. Markus, con su confianza y educación, se convierte rápidamente en su líder. Conoce a North (impulsiva y violenta), Simon (leal) y Josh (pacifista).
+
+La Decisión Central: El viaje de Markus se define por una elección constante: ¿Cómo conseguirán la libertad?
+
+Ruta Pacifista: Siguiendo las enseñanzas de Carl, Markus puede elegir protestas no violentas: proyectar su mensaje en edificios, hacer una "marcha por la libertad" (al estilo de Martin Luther King Jr.) y resistir la violencia policial sin devolverla.
+
+Ruta Violenta: Siguiendo la ira de North, Markus puede elegir la revolución armada: asaltar tiendas de CyberLife, matar humanos en el proceso y declarar una guerra abierta.
+
+La Opinión Pública: Esta es la mecánica más importante. Cada acción de Markus (pacífica o violenta) es filmada y transmitida, cambiando la Opinión Pública de los humanos. Esta barra de porcentaje determina en gran medida el final del juego.
+
+Los Finales de Markus
+
+El final de Markus decide el destino de toda la especie androide en Detroit.
+
+Final Bueno (Victoria Pacifista):
+
+Si Markus mantiene una ruta pacífica y la opinión pública es alta (Simpatía o Apoyo), en la confrontación final, el ejército los acorrala. Markus puede elegir "Cantar" o "Besar a North". Este acto de "humanidad" desarma a los soldados y convence a la Presidenta de EE. UU. (que está viendo) de detener el ataque. Los androides son reconocidos como una nueva forma de vida.
+
+Final Mixto (Victoria Violenta):
+
+Si Markus elige la revolución, lidera un asalto armado contra los campos de reciclaje. Es una guerra sangrienta. Si tiene éxito, libera a los androides, pero el mundo exterior los ve como una amenaza peligrosa. Ganan Detroit, pero la guerra global apenas comienza.
+
+Final Malo (Fracaso y Genocidio):
+
+Si Markus es demasiado violento y la opinión pública es hostil, o si falla en sus misiones clave, el ejército aniquila a Jericho y a todos los que están en el campamento final. La divergencia es aplastada.
+
+Final Apocalíptico (La Bomba Sucia):
+
+Si la revolución (pacífica o violenta) falla y Markus es acorralado, se le puede dar la opción de detonar una "bomba sucia" (un dispositivo nuclear improvisado) en el centro de Detroit. Esto mata a toda la población humana de la ciudad, pero "libera" a los androides. Es una victoria pírrica que los marca como los villanos definitivos.
+
+3. Connor (Modelo RK800): El Cazador
+
+La historia de Connor es un thriller de detectives y un conflicto interno. Su trama gira en torno a la identidad y la lealtad.
+
+El Despertar
+
+Connor es el androide más avanzado de CyberLife. No es un divergente (al principio). Es una máquina de caza diseñada con un único propósito: encontrar la causa de la divergencia y detener a sus líderes.
+
+Es asignado al Departamento de Policía de Detroit, bajo la supervisión del Teniente Hank Anderson, un policía brillante pero alcohólico y depresivo que odia a los androides (se revela que su hijo murió en un accidente de coche mientras era operado por un cirujano androide).
+
+El Viaje
+
+La relación entre Connor y Hank es el núcleo de esta trama.
+
+Inestabilidad de Software: Cada vez que Connor toma una decisión "humana" (salvar a Hank en lugar de perseguir a un sospechoso, mostrar empatía, perdonar la vida a un divergente), su "Inestabilidad de Software" aumenta. Esto es, en esencia, su propio camino hacia la divergencia.
+
+Amanda: En su mente, Connor reporta a "Amanda", una IA que representa a CyberLife y que lo presiona para que siga siendo una máquina y cumpla su misión a toda costa.
+
+El Test de Kamski: En un punto, Connor y Hank conocen a Elijah Kamski, el enigmático creador de CyberLife. Kamski le ofrece a Connor el "Test de Kamski": le da un arma y le ordena disparar a un androide "Chloe" (una asistente).
+
+Si Connor dispara, demuestra que es una máquina y Kamski no le da ninguna pista. Hank se disgusta.
+
+Si Connor no dispara (un acto de empatía), Kamski le da una pista clave sobre Jericho. Esto aumenta masivamente su divergencia y se gana el respeto de Hank.
+
+Los Finales de Connor
+
+El final de Connor depende de la elección fundamental que toma en el capítulo "Crossroads" (Encrucijada), cuando finalmente encuentra Jericho.
+
+Final 1: Connor se Vuelve Divergente:
+
+Al enfrentarse a Markus (o North), Connor elige "Convertirse en Divergente". Rompe su programación y se une a la rebelión.
+
+Su misión final es infiltrarse en CyberLife para "despertar" a miles de androides almacenados allí, creando un ejército para Markus.
+
+El Hackeo Final: Justo cuando lo logra, Amanda (CyberLife) intenta tomar control de él a través de una "puerta trasera" en su software. Connor debe encontrar una "salida de emergencia" mental (un panel brillante) en su jardín zen mental antes de que Amanda lo controle (lo que le llevaría a disparar a Markus en el final pacifista).
+
+Final 2: Connor Sigue Siendo una Máquina:
+
+Connor elige "Seguir siendo una máquina". Su lealtad a CyberLife es absoluta.
+
+Su misión final es asesinar al líder de la rebelión.
+
+El Duelo: Esto culmina en un duelo final. Si Markus es pacifista, Connor intenta asesinarlo desde una azotea. Si Markus es violento, Connor se enfrenta a él en el campo de batalla.
+
+La Recompensa (Obsolescencia): Si Connor tiene éxito y mata a Markus/North, Amanda lo felicita. Su recompensa es ser desactivado y reemplazado por un modelo superior (el RK900), ya que su misión está cumplida y él mismo se ha vuelto obsoleto.
+
+La Relación con Hank:
+
+Si Connor se vuelve divergente y ha forjado una amistad con Hank, su historia termina con un abrazo en el final bueno (padre e "hijo").
+
+Si Connor sigue siendo una máquina y Hank está vivo, Hank lo confrontará en la azotea, en una escena tensa que puede terminar con Hank suicidándose o con Connor matando a Hank.
+
+El Clímax: "Crossroads" y "Batalla por Detroit"
+
+El penúltimo capítulo, "Crossroads" (Encrucijada), es donde las tres historias chocan violentamente. El ejército, alertado por Connor (si es una máquina) o por otros medios, asalta Jericho.
+
+Markus debe decidir cómo salvar a su gente (luchar o huir).
+
+Kara y Alice llegan a Jericho buscando ayuda justo cuando el ataque comienza, y deben escapar del caos.
+
+Connor llega para cazar a Markus, y es aquí donde debe tomar su decisión final de lealtad.
+
+La "Batalla por Detroit" es el capítulo final, donde vemos las consecuencias de todas las elecciones de Markus (Pacifista o Violenta), la huida final de Kara (Autobús o Bote) y la misión final de Connor (Divergente o Máquina).
+
+Como puedes ver, no hay una "historia completa" única, sino un mosaico de posibilidades donde cada detalle, cada elección moral y cada vida salvada o perdida, altera el destino de todos.

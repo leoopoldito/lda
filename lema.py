@@ -1,18 +1,19 @@
 import spacy
 import glob  # Para encontrar archivos que coincidan con un patrón, buscar los txt de un directorio
 import os  # Para construir rutas de archivos
+import pyximport
+import numpy
+numpy.random.seed(42)
+pyximport.install(setup_args={"include_dirs": numpy.get_include()})
 
-import gensim
-from collections import Counter # ¡Esta es la clave para el BoW!
-
-# Definir la ruta al corpus, ruta que contiene los archivos .txt
+import matrices
+# ruta al corpus, ruta que contiene los archivos .txt
 CORPUS_PATH = "./corpus"
 
 # Cargar el modelo de spaCy
 print("Cargando modelo de spaCy 'es_core_news_lg'...")
-# Usamos un bloque try-except por si el usuario no ha descargado el modelo
+# bloque try-except por si el usuario no ha descargado el modelo
 try:
-    # nlp = spacy.load("es_core_news_lg", disable=["parser", "ner"])
     # Deshabilitar "parser" y "ner" (Análisis y Reconocimiento de Entidades)
     # hace que el proceso sea MUCHO más rápido, ya que solo necesitamos
     # el tokenizador y el lematizador.
@@ -34,7 +35,7 @@ vocabulario = set()
 
 # Encontrar todos los archivos .txt en la ruta del corpus
 # glob.glob() crea una lista de todos los archivos que terminan en ".txt" dentro de la carpeta CORPUS_PATH.
-# os.path.join() construye la ruta de forma segura (funciona en Windows, Mac, Linux)
+# os.path.join() construye la ruta de forma segura
 archivos_txt = glob.glob(os.path.join(CORPUS_PATH, "*.txt"))
 
 if not archivos_txt:# si no hay archivos .txt
@@ -72,10 +73,10 @@ for filepath in archivos_txt:
             # token.is_space: Espacios en blanco o saltos de línea
             # not token.is_alpha: Tokens que no son alfabéticos (ignora números)
 
-            if (not token.is_stop and not token.is_punct and not token.is_space and token.is_alpha):
+            if (not token.is_stop and not token.is_punct and not token.is_space ):
                 # Lematización, obtenemos el lema del token y lo convertimos a minuscualas para estandarizar.
                 lema = token.lemma_.lower()
-                # Agregamos el lema al set, vocabulario general o de todo el corpus (sin repetición)
+                # Agregamos el lema al set, vocabulario general
                 vocabulario.add(lema)
                 # Agregamos el lema al subvocabulario del archivo actual, en este caso no se filtrar repeticiones
                 lemas_de_este_archivo.append(lema)
@@ -83,62 +84,34 @@ for filepath in archivos_txt:
         subvocabularios[filepath] = lemas_de_este_archivo
 #asignar un id a cada palabra del vocabulario
 vocabulario_a_id = {palabra: id for id, palabra in enumerate(vocabulario)}
-# Opcional, pero muy útil: el mapa inverso (ID -> Palabra)
+# el mapa inverso (ID -> Palabra)
 id_a_vocabulario = {id: palabra for palabra, id in vocabulario_a_id.items()}
 
-archivo1=subvocabularios['./corpus/Detroit.txt']
-archivo2=subvocabularios['./corpus/horizon.txt']
-archivo3=subvocabularios['./corpus/rd2.txt']
-archivo4=subvocabularios['./corpus/tlou1.txt']
-archivo5=subvocabularios['./corpus/zeldaOcarina.txt']
+listas_de_ids = []
+for archivo, lemas in subvocabularios.items():
+    id_de_la_palabras = [vocabulario_a_id[lema] for lema in lemas]
+    listas_de_ids.append(id_de_la_palabras)
 
-ids_archivo1 = []
-for palabra in archivo1:#no es necesario verificar que la palabra exista en el vocabulario, ya que el vocabulario es un conjunto con todas las palabras de todos los documentos
-    id_de_la_palabra = vocabulario_a_id[palabra]
-    ids_archivo1.append(id_de_la_palabra)
-
-ids_archivo2 = []
-for palabra in archivo2:
-    id_de_la_palabra = vocabulario_a_id[palabra]
-    ids_archivo2.append(id_de_la_palabra)
-
-ids_archivo3 = []
-for palabra in archivo3:
-    id_de_la_palabra = vocabulario_a_id[palabra]
-    ids_archivo3.append(id_de_la_palabra)
-
-ids_archivo4 = []
-for palabra in archivo4:
-    id_de_la_palabra = vocabulario_a_id[palabra]
-    ids_archivo4.append(id_de_la_palabra)
-
-ids_archivo5 = []
-for palabra in archivo5:
-    id_de_la_palabra = vocabulario_a_id[palabra]
-    ids_archivo5.append(id_de_la_palabra)
-
-
-# Resultados Finales
+# Cython necesita una lista de arrays de NumPy,
+# Usamos dtype=numpy.int32 porque tu Cython espera 'int'.
+corpus_para_cython = [
+    numpy.array(doc, dtype=numpy.int32) for doc in listas_de_ids
+]
+# Cuantas palabras hay en el vocabulario
 print("\n--- Proceso Terminado ---")
 print(f"El vocabulario final tiene {len(vocabulario)} palabras únicas.")
 
-# Opcional: Imprimir algunas palabras para verificar
-print("\nMostrando 20 palabras de muestra del vocabulario:")
-print(list(vocabulario)[:20])
 
-# Puedes iterar sobre el diccionario para ver cada archivo y sus lemas
-for archivo, lemas in subvocabularios.items():
-    print(f"\nArchivo: {archivo}")
-    print(f"Total de lemas (con repetición): {len(lemas)}")
-    # Imprimimos solo los primeros 15 lemas como muestra
-    print(f"Muestra de lemas: {lemas[:15]}")
+K = 50
 
-# --- 1. Reúne tus listas de IDs en una sola lista ---
-# (Estas son las variables que ya creaste)
-listas_de_ids = [
-    ids_archivo1,
-    ids_archivo2,
-    ids_archivo3,
-    ids_archivo4,
-    ids_archivo5
-]
+#llamada a la función para obtener las matrices
+phig, thetag, ids_20 = matrices.llenarMatrices(corpus_para_cython, len(corpus_para_cython), len(vocabulario), K, 1500)
+#pasar los ids a palabras
+lista_topicos_palabras = []
+for i in range(K):
+    lista_ids = ids_20[i]
+    lista_palabras = [id_a_vocabulario[id] for id in lista_ids]
+    lista_topicos_palabras.append(lista_palabras)
+    #imprimir las 20 palabras del topico
+    print(f"Top 20 palabras del topico {i}: {lista_palabras}")
+
