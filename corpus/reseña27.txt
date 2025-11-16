@@ -1,0 +1,39 @@
+Cada cierto tiempo llega un roguelike de cartas que le da la vuelta a un concepto básico para hacer algo totalmente nuevo. Poco más se puede decir de la influencia que ha tenido Slay the Spire en el medio. Y ya hablamos largo y tendido en su día sobre la genial mezcla de ideas que fue Loop Hero. Casi todos estos juegos tienen en común el ser fáciles de comprender y muy directos en su propuesta, pero con una profundidad que no hace más que crecer conforme las horas pasan y pasan. Balatro no es una excepción.
+
+
+Desarrollado en solitario por el creador independiente LocalThunk, se ha convertido en el mayor éxito jamás publicado por Playstack, la firma detrás del alabado The Case of the Golden Idol. ¿Pero qué tiene Balatro para que haya vendido 250.000 copias en tres días? ¿Cómo ha logrado tener un 90 en Metacritic? ¿Por qué el 97 % de las casi 13.000 reseñas de Steam son positivas? ¿Qué hace para que atrape sin remedio, para que las horas pasen como si fueran minutos?
+
+Transformando el póquer en algo totalmente diferente
+En primer lugar, lo hace cogiendo un juego tan conocido como el póquer y dándole vueltas. Bastantes, de hecho, hasta el punto de que ni siquiera hay que saber jugar al póquer para disfrutar de Balatro, y todo lo que un experto pueda saber le va a servir de bien poco aquí.
+
+Sí, hay que saber lo que es una pareja, un trío, un full o una escalera de color, pero son unas reglas sencillísimas que siempre se pueden ver en medio de la partida. También es importante contar las cartas de la baraja que han salido, pero, de nuevo, es algo que está a un clic (o pulsación de botón) de distancia.
+
+No es necesario conocer ni las reglas más básicas del póquer para disfrutarlo.
+No es necesario conocer ni las reglas más básicas del póquer para disfrutarlo.
+No juegas contra otros jugadores, ni siquiera contra oponentes controlados por la inteligencia artificial. Aquí juegas contra ti mismo: el objetivo es hacer los puntos que se te indican. Cada fase está dividida en tres rondas: la ciega pequeña, la ciega grande (que requiere conseguir más puntos que la anterior) y el jefe, que no solo requiere todavía más puntos sino que impone ciertas limitaciones a las jugadas. En la siguiente fase, la ciega pequeña exige más puntos aún que el jefe previo.
+
+En cada de esas rondas tenemos un número máximo de manos que podemos jugar (de hasta cinco cartas) y un número máximo de descartes que podemos hacer antes de llegar a la puntuación fijada. ¿Cómo puntuamos? Cada carta da las fichas de su valor (un siete, siete fichas; un rey, diez), que se suma a la mano de póquer (por ejemplo, doble pareja o color), que lleva asociado una cantidad de fichas específica y un multiplicador del total.
+
+La traducción al español está en fase beta, pero es más que correcta.
+La traducción al español está en fase beta, pero es más que correcta.
+Estaréis pensando que no tiene sentido que la cantidad de puntos a conseguir no pare de incrementar de una ronda a la siguiente, pues al fin y al cabo una jugada de póquer siempre va a dar la misma cantidad de fichas. Evidentemente, esto no es así. De hecho, justo de eso va Balatro: de cambiar constantemente el cuántos puntos nos otorgan las jugadas, especialmente incrementando el multiplicador hasta límites insospechados, algo que hacemos de varias maneras diferentes.
+
+Una cantidad de estrategias delirante
+Lo más importante son los comodines que podemos comprar en la tienda aleatoria que aparece tras superar cada ronda. Hay muchísimos, no paramos de desbloquear más y es al combinar unos con otros (no son cartas que se jueguen, sino que siempre aplican sus efectos, como una habilidad pasiva) la manera principal de generar estrategias que nos hagan sumar los puntos en miles, decenas de miles y hasta millones.
+
+Nos sorprende continuamente con cartas y efectos que nos hacen pensar en nuevas estrategias.
+Nos sorprende continuamente con cartas y efectos que nos hacen pensar en nuevas estrategias.
+Se podría debatir si son aún más importantes las cartas de planeta, que se utilizan para aumentar permanentemente las fichas y el multiplicador de jugadas de póquer concretas, lo que lleva a que según las estrategia que estemos siguiendo, una pareja pueda puntuar muchísimo más que una escalera de color. También podemos comprar con los dólares que desaparecerán tras la partida, directamente de las disponibles en el escaparate o mediante sobres aleatorios, cartas de tarot que, esencialmente, nos permiten modificar las propias cartas de póquer de la baraja o incluso eliminarlas. Y no nos podemos olvidar tampoco de los vales que modifican el comportamiento de la tienda, o las poderosísimas cartas espectrales, la omisión estratégica de las ciegas a cambio de recompensas, la capacidad de cambiar el número de jugadas y descartes, o….
+
+Lo que queremos decir es que hay muchísimas maneras de cambiar cómo y cuánto puntuamos, hasta el punto de que cambiamos el póquer en sí mismo. Lo que tiene peso no es saber que una escalera de color vale más que una doble pareja, sino adaptarte y aprovechar las decenas de modificadores que te salen al paso para hacer que lo que más puntos dé sea lo que más frecuentemente vas a usar para puntuar, dependiendo de cómo está construida tu baraja y de las alteraciones que tienes en la mesa.
+
+Algunos jefes pueden parecer injustos, pero es una manera de obligarnos a planificar.
+Algunos jefes pueden parecer injustos, pero es una manera de obligarnos a planificar.
+Y de repente llega un jefe que da al traste con todo, que justo tiene una habilidad que contrarresta concretamente la estrategia con la que no has parado de ganar una fase después de otra. Y aprendes a jugar. A pensar desde el principio de la partida en la gestión de la baraja, en la compraventa de comodines, a administrar con cabeza en el dinero obtenido y gastado, y a anticipar las piedras que pueden surgir en el camino. En definitiva, a descubrir e interiorizar capas adicionales de profundidad, de estrategia, de posibilidades.
+
+Ese aprendizaje, que va de la mano de la experimentación, siempre es útil, porque por supuesto completar una run es solo el primer hito. Después llega el modo infinito, las barajas que cambian desde el principio la manera de jugar, y modificadores (por cierto, denominados pozos, toda una declaración de intenciones) que varían hasta la propia estructura de las partidas. Y a pesar de toda esta densidad, es un juego superágil, de esos que siempre están ahí esperando para cuando tienes diez minutitos libres que acaban convirtiéndose en una noche entera.
+
+La interfaz, las animaciones, las sensaciones al 'toquetear' las cartas, son geniales dentro de su sencillez.
+La interfaz, las animaciones, las sensaciones al 'toquetear' las cartas, son geniales dentro de su sencillez.
+Conclusión
+Es complicado ponerle pegas a Balatro, reflexionar en profundidad sobre sus distintos elementos intentando encontrarle algún defecto en su diseño magistral y pensado al milímetro; o a una estética funcional, legible y siempre satisfactoria a la hora de interactuar con las cartas, al abrir sobres o al ver cómo el multiplicador de puntos comienza a echar fuego. Es un juego que se dirige a un público concreto, pero cualquiera que sepa a lo que viene, a quien le atraiga la propuesta, va a entender en pocos minutos el jolgorio que ha generado un título que encaja como un guante en un principio de 2024 repleto de producciones tan fantásticas como mastodónticas.

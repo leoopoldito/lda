@@ -1,0 +1,42 @@
+El camino del guerrero
+Sifu es un juego un tanto complicado de explicar. Por una parte, es un «yo contra el barrio» de libro en el que recorremos diferentes niveles derrotando a oleadas de enemigos, con minijefes a medio camino y un jefe final. Por otra parte, en lo que respecta a la progresión, tiene un diseño muy parecido al de Returnal, aunque con algunas diferencias importantes. Sifu se divide en cinco niveles, y cada vez que completemos uno podemos volver a empezar desde ahí. Además, iremos desbloqueando nuevas rutas y atajos según progresamos, por lo que podemos volver a explorar zonas antes inaccesibles o, simplemente, llegar rápidamente al jefe final. ¿Qué por qué querríamos llegar antes al jefe final?
+
+‘Sifu’ requiere concentración y paciencia para aprendernos los movimientos de los rivales más fuertes.
+‘Sifu’ requiere concentración y paciencia para aprendernos los movimientos de los rivales más fuertes.
+Sifu tiene un sistema de vidas un tanto particular. En esencia, funciona como en los juegos clásicos: si nos quedamos sin vidas, morimos y toca empezar desde el principio; en este caso, desde cualquier nivel que hayamos completado con éxito. El problema es que cada vez que morimos perdemos una vida más, o, mejor dicho, cumplimos un año más. Es decir, la primera vez nos hacemos un año más viejo, la segunda dos, la tercera tres… salvo que derrotemos a algún enemigo «especial»; en cuyo caso el contador de años de cara a la próxima muerte baja uno. Esto se traduce en que si morimos muchas veces consecutivas (como en la pelea contra un jefe) podemos perder 20 años con cuatro muertes, por ejemplo, y si superamos los 70 años, la siguiente muerte es el fin de la partida.
+
+Un sistema de energía nos permite ralentizar el tiempo brevemente para hacer ataques especiales.
+Un sistema de energía nos permite ralentizar el tiempo brevemente para hacer ataques especiales.
+Los años, además, se guardan en cada nivel, por lo que si llegamos a la segunda fase con 40 años, muy, muy difícilmente vamos a superar el juego. Porque, sí, Sifu es un juego difícil. Muy difícil, de hecho, pero no os preocupéis. Podemos volver a jugar cualquier fase con las habilidades que hayamos aprendido e intentar completarlas muriendo menos. Así, se potencia esa jugabilidad arcade clásica, en cierto modo, en el que volvíamos a jugarnos las mismas fases una y otra vez y cada vez éramos un poquito mejores.
+
+Nota del redactor: En Sifu, cada vez que envejecemos una década, nuestro personaje se hace más fuerte a costa de tener menos salud. Tras escribir este análisis Sloclap ha publicado una actualización que modifica el impacto de esta mecánica, y que podría resultar en un juego ligeramente más fácil. Es difícil valorar el cambio, pero queríamos asegurarnos de reflejarlo en el texto.
+
+Hay un montón de peleas opcionales que sirven para conseguir más puntos de experiencia... a riesgo de perder más vidas.
+Hay un montón de peleas opcionales que sirven para conseguir más puntos de experiencia... a riesgo de perder más vidas.
+Aquí vamos a mejorar de dos maneras. Por una parte, podemos gastar puntos de experiencia en mejorar nuestras habilidades, y si pagamos cinco veces el coste de desbloqueo de la habilidad, podremos desbloquearla permanentemente, por lo que si morimos seguirá desbloqueada. Esto es ideal, porque nos permite hacernos más fuertes poco a poco, a la vez que aprendemos a jugar. Su sistema de control es muy de recreativa, también, con movimientos de stick muy marcados, pero lo más importante es que todos los enemigos tienen patrones de ataques que memorizar.
+
+La secuencia inicial nos presenta a los cinco rivales a batir.
+La secuencia inicial nos presenta a los cinco rivales a batir.
+Lo volvemos a repetir: Sifu es un juego difícil, pero una vez que sepamos cómo enfrentarnos a cada enemigo la cosa es mucho más asequible. Esto no quita que a veces ciertas batallas sean un poco tediosas de repetir, requiriendo mucha paciencia, pero cada partida es un poquito más fácil por las razones que hemos explicado. Ahora, queremos dejar muy, muy claro que es más fácil disfrutar este juego si os gusta el diseño Souls, en el que aprendernos los patrones de cada rival y dominar los esquives y sincronizar los bloqueos es esencial. Si estáis buscando un «yo contra el barrio» tradicional a lo Streets of Rage, huid.
+
+Artísticamente nos ha sorprendido mucho, y eso que no vamos a enseñar nada que no se haya enseñado de manera oficial.
+Artísticamente nos ha sorprendido mucho, y eso que no vamos a enseñar nada que no se haya enseñado de manera oficial.
+Por último, no podemos olvidarnos de un pequeño toque roguelike, ya que hay nueve mejoras que vamos desbloqueando al encontrar ciertos objetos por el entorno. Estas se guardan por fase, por lo que cada vez que repitamos una fase podemos cambiar las mejoras en cuestión. Por supuesto, si empezamos desde la primera fase podemos cambiarlas desde cero. Es un pequeño detalle que fomenta aún más si cabe la rejugabilidad. Además, el control es fantástico y responde a las mil maravillas. Todos los botones se pueden reconfigurar, algo que os animamos a hacer porque la configuración por defecto nos ha parecido un tanto incómoda, e incluso nos han dolido las manos después de sesiones largas de juego.
+
+Podemos elegir entre un personaje masculino o femenino, aunque las diferencias son únicamente estéticas.
+Podemos elegir entre un personaje masculino o femenino, aunque las diferencias son únicamente estéticas.
+Sorprendente fuera de lo jugable
+Sifu hace gala de un estilo artístico que recuerda, en cierto modo, a Life is Strange pero mucho más espectacular y vistoso. Aparte de las animaciones, que son absolutamente increíbles, artísticamente es una pasada, y no os queremos enseñar mucho más de lo que se ha enseñado oficialmente porque hay algunas zonas que nos han dejado con la boca abierta. El museo, en concreto, es espectacular, alejándose de los escenarios propios del género para sorprendernos constantemente. Todo ello, moviéndose a unas perfectas 60 imágenes por segundo en PlayStation 5, que es la que hemos podido probar.
+
+El museo es una de las fases más espectaculares en lo visual.
+El museo es una de las fases más espectaculares en lo visual.
+Una pega importante que tenemos es que a veces la cámara nos deja vendidos. Sifu es un juego donde una vida puede cambiar el curso de la partida por completo, y requiere tanta precisión que la cámara no puede permitirse estos errores. La mayoría de los escenarios son bastante abiertos, por lo que no supone un problema, pero en cuanto llegamos a zonas más cerradas comienzan los problemas. Teniendo en cuenta que vamos a usar los botones frontales, como poco, para pegar, el pulgar derecho suele estar ocupado y no puede mover la cámara con comodidad para corregir los errores de esta.
+
+El modo foto nos ayuda a tomar instantáneas como esta.
+El modo foto nos ayuda a tomar instantáneas como esta.
+En lo sonoro, hace gala de una serie de composiciones y efectos de sonido que acompañan a la perfección este tipo de experiencia, que, curiosamente, no se ha propagado demasiado fuera del cine. Una historia de venganza en la que tenemos que entrenar y mejorar constantemente, como nuestros protagonistas, para salir airosos de nuestro peligroso periplo. Una historia un tanto típica pero que justifica la aventura.
+
+Un consejo: lanzar objetos rompe las defensas y los combos de los enemigos, así que estad siempre pendientes del entorno si las cosas se ponen feas.
+Un consejo: lanzar objetos rompe las defensas y los combos de los enemigos, así que estad siempre pendientes del entorno si las cosas se ponen feas.
+Paciencia, control y fuerza
+Entendemos que si no habéis seguido Sifu muy de cerca podéis pensar que se trate de un «yo contra el barrio» en tres dimensiones, de un arcade como los clásicos. Nada más lejos de la realidad. Se trata de un juego que coge la base de ese género, pero las modifica con toques de roguelike, una progresión que recuerda a la de Returnal y jefes un tanto Souls que nos obligarán a aprendernos sus movimientos a la perfección. Es muy importante entender esto, ya que, si no os gusta ese desafío, repetir escenarios y peleas una y otra vez, mejorar poco a poco y dominar a cada jefe, Sifu no es para vosotros en absoluto. Si, por el contrario, os gusta esa propuesta complicada de dominar los patrones de ataque de los rivales e intentar superaros poco a poco repitiendo cada nivel, creemos que Sifu os va a encantar.
